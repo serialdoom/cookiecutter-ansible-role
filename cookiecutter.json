@@ -1,13 +1,13 @@
 {
-  "full_name": "Enrique Paredes",
-  "email": "enrique.iknite@gmail.com",
+  "full_name": "Your Name Goes here",
+  "email": "mchristof@decibelinsight.net",
   "role_name": "Super.Role",
-  "github_user": "iknite",
+  "github_user": "serial.doom",
   "repo_name": "ansible-super-role",
   "short_description": "This Ansible Role infuses antigravity, you are warned",
-  "release_date": "2014-06-12",
-  "year": "2014",
+  "release_date": "2016",
+  "year": "2016",
   "version": "0.1.0",
-  "min_ansible_version": "1.6",
+  "min_ansible_version": "2.1.0.0",
   "allow_duplicates": "no"
 }
